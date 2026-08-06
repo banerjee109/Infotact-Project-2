@@ -1,5 +1,5 @@
-# Infotact-Project-2
 **SaaS Cohort Retention & Customer Lifetime Value (CLTV) Analysis**
+
 #Project Overview
 This project analyzes customer acquisition, subscription revenue, churn behaviour, customer lifetime value (CLTV), and cohort retention for a SaaS business.
 A synthetic subscription dataset representing 2,500 B2B SaaS customers over an 18-month period was generated to simulate real-world subscription analytics.
@@ -80,5 +80,3 @@ The interactive dashboard includes:
 - Business Intelligence
 - Business Storytelling
 **Soumodeep Banerjee**
-
-Data Analytics Intern – Infotact Solutions
